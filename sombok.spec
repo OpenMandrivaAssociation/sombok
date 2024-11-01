@@ -1,6 +1,6 @@
 Summary:	Unicode Text Segmentation Package
 Name:		sombok
-Version:	2011.4
+Version:	2.4.0
 Release:	1
 License:	(GPL-1.0-or-later OR Artistic-1.0-Perl) AND (GPL-2.0-or-later OR Artistic-1.0-Perl)
 Group:		System/Libraries
